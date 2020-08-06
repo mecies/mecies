@@ -28,6 +28,13 @@ Add languages and tools I use list with icons
 <img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   22 hrs 15 mins  ███████████████████████░░   93.26 % 
+Other        49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+JavaScript   24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+JSON         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+```
 <!--END_SECTION:waka-->
 
 [website]: https://mecies.github.io/me
