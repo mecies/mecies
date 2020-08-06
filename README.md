@@ -22,11 +22,13 @@
 
 ---
 
-<img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true" />
-
 ### TODO
 Add languages and tools I use list with icons
 
+<img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [website]: https://mecies.github.io/me
 [instagram]: https://instagram.com/xmasiek
