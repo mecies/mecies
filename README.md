@@ -22,10 +22,6 @@
 
 ---
 
-###  My GitHub activity 
-
-<img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true" />
-
 ###  My WakaTime stats 
 
 <!--START_SECTION:waka-->
@@ -37,6 +33,10 @@ JSON         13 mins         ░░░░░░░░░░░░░░░░░
 Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 <!--END_SECTION:waka-->
+
+###  My GitHub activity 
+
+<img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true" />
 
 [website]: https://mecies.github.io/me
 [instagram]: https://instagram.com/xmasiek
