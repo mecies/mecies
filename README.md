@@ -22,10 +22,11 @@
 
 ---
 
-### TODO
-Add languages and tools I use list with icons
+###  My GitHub activity 
 
 <img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true" />
+
+###  My WakaTime stats 
 
 <!--START_SECTION:waka-->
 ```text
