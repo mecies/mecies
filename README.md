@@ -22,7 +22,7 @@
 
 ---
 
-###  My WakaTime stats 
+###  My WakaTime weekly stats 
 
 <!--START_SECTION:waka-->
 ```text
@@ -34,7 +34,7 @@ Bash         6 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-###  My GitHub activity 
+###  My GitHub yearly activity 
 
 <img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true" />
 
