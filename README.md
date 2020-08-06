@@ -22,7 +22,11 @@
 
 ---
 
-###  My WakaTime weekly stats 
+### Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### WakaTime weekly stats 
 
 <!--START_SECTION:waka-->
 ```text
@@ -34,9 +38,9 @@ Bash         6 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-###  My GitHub yearly activity 
+###  GitHub stats
 
-<img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true" />
+<img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true&hide=stars" />
 
 [website]: https://mecies.github.io/me
 [instagram]: https://instagram.com/xmasiek
