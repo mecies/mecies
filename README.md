@@ -2,7 +2,7 @@
 
 ## I'm a remote React & Vue developer based in Wrocław!
 
-- 🔭  I’m currently working in @monterail, delivering meaningful software worldwie! 🌍
+- 🔭  I’m currently working at [@Monterail](https://github.com/monterail), delivering meaningful software worldwie! 🌍
 - 🌱  I’m currently learning everything and everyday. (mostly Frontend) 😂
 - 🥅  2021 Goals: Advance from Junior to a Regular developer.
 - ⚡ Fun fact one: I love video games 🎮, board games 🎲.
