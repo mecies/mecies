@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README with wakatime stats
     runs-on: ubuntu-latest
     steps:
-      - uses: mecies/README.md@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
