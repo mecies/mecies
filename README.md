@@ -1,11 +1,16 @@
-### Hi there, I'm Maciej - aka mecies[website] 👋
+### Hi there, I'm Maciej - aka [mecies][website] 👋
 
 ## I'm a remote React & Vue developer based in Wrocław!
 
-- 🔭 I’m currently working in Monterail, local software development agency, delivering meaningful software worldwie! 🌍
-- 🌱 I’m currently learning everything and everyday. (mostly Frontend) 😂
-- 🥅 2021 Goals: Lead a software development project and advance from Junior to a Regular developer.
-- ⚡ Fun fact: I love video games 🎮, board games 🎲, and sports like calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
+- 🔭  I’m currently working in Monterail, delivering meaningful software worldwie! 🌍
+- 🌱  I’m currently learning everything and everyday. (mostly Frontend) 😂
+- 🥅  2021 Goals: Advance from Junior to a Regular developer.
+- ⚡ Fun fact one: I love video games 🎮, board games 🎲.
+- ⚡ Fun fact two: I love sports too, like calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
+
+<br />
+
+---
 
 ### Connect with me:
 
@@ -15,12 +20,14 @@
 
 <br />
 
-[website]: https://mecies.github.io/me
-[instagram]: https://instagram.com/xmasiek
-[linkedin]: https://linkedin.com/in/maciej=hnat
-
-<br />
-
 ---
 
 <img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true" />
+
+### TODO
+Add languages and tools I use list with icons
+
+
+[website]: https://mecies.github.io/me
+[instagram]: https://instagram.com/xmasiek
+[linkedin]: https://linkedin.com/in/maciej=hnat
