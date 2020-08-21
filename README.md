@@ -44,4 +44,4 @@ Bash         27 mins         ▓░░░░░░░░░░░░░░░░
 
 [website]: https://mecies.github.io/me
 [instagram]: https://instagram.com/xmasiek
-[linkedin]: https://linkedin.com/in/maciej=hnat
+[linkedin]: https://www.linkedin.com/in/maciej-hnat/
