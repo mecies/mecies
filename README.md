@@ -42,6 +42,6 @@ Python       1 hr 16 mins    █░░░░░░░░░░░░░░░░
 
 <img align="left" alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true&hide=stars" />
 
-[website]: https://mecies.github.io/me
+[website]: https://maciejhnat.netlify.app/
 [instagram]: https://instagram.com/xmasiek
 [linkedin]: https://www.linkedin.com/in/maciej-hnat/
