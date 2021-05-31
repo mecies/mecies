@@ -4,9 +4,9 @@
 
 - 🔭  I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
 - 🌱  I’m currently learning everything and everyday. (mostly Frontend) 😂
-- 🥅  2021 Goals: Advance from Junior to a Regular developer.
-- ⚡ Fun fact one: I love video games 🎮, board games 🎲.
-- ⚡ Fun fact two: I love sports too, like calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
+- 🥅  2022 Goal: Become professionally proficient with Nest.js backend framework. 🐈
+- ⚡ Fun fact one: I love video games 🎮, board games 🎲, and travelling. 🌇
+- ⚡ Fun fact two: I love sports too, like calisthenics 🧘, powerlifting 🏋️, and climbing. 🧗
 
 <br />
 
