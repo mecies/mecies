@@ -2,8 +2,7 @@
 
 ## I'm a remote React & Vue developer based in Wrocław!
 
-- 🔭  I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
-- 🌱  I’m currently learning everything and everyday. (mostly Frontend) 😂
+- 🔭  I’m currently working at [@Swapcard-Corporation](https://github.com/Swapcard-Corporation), The Leading All-In-One Virtual & Hybrid Events Platform 📅
 - 🥅  2022 Goal: Become professionally proficient with Nest.js backend framework. 🐈
 - ⚡ Fun fact one: I love video games 🎮, board games 🎲, and travelling. 🌇
 - ⚡ Fun fact two: I love sports too, like calisthenics 🧘, powerlifting 🏋️, and climbing. 🧗
