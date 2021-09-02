@@ -13,11 +13,7 @@
 
 ### Connect with me:
 
-<img width="300px" height="300px" src="./images/mecies-qr.png" />
-<br />
-[<img alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img width="300px" height="300px" src="./images/mecies-qr.png" />][website]
 
 <br />
 
@@ -44,6 +40,17 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 ### GitHub stats
 
 <img alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true&hide=stars" />
+
+### Socials
+
+
+[website]: https://maciejhnat.netlify.app/
+[instagram]: https://instagram.com/xmasiek
+[linkedin]: https://www.linkedin.com/in/maciej-hnat/
+
+[<img alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Parrot squad where you at
 
@@ -74,7 +81,3 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-[website]: https://maciejhnat.netlify.app/
-[instagram]: https://instagram.com/xmasiek
-[linkedin]: https://www.linkedin.com/in/maciej-hnat/
