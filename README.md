@@ -21,7 +21,7 @@
 
 ### Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecies&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecies&layout=compact&theme=material-palenight&hide_border=true)
 
 ---
 
