@@ -43,7 +43,7 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 
 ### GitHub stats
 
-<img alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true&hide=stars" />
+<img alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true&hide=stars&theme=material-palenight" />
 
 ---
 
