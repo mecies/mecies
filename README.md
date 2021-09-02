@@ -23,6 +23,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecies&layout=compact)
 
+---
+
 ### WakaTime weekly stats
 
 <!--START_SECTION:waka-->
@@ -37,9 +39,13 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+---
+
 ### GitHub stats
 
 <img alt="mecies Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecies&show_icons=true&hide_border=true&hide=stars" />
+
+---
 
 ### Socials
 
@@ -51,6 +57,8 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 [<img alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
 
 ### Parrot squad where you at
 
