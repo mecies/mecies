@@ -7,16 +7,6 @@
 - ⚡ Fun fact one: I love video games 🎮, board games 🎲, and travelling. 🌇
 - ⚡ Fun fact two: I love sports too, like calisthenics 🧘, powerlifting 🏋️, and climbing. 🧗
 
-<br />
-
----
-
-### Connect with me:
-
-[<img width="300px" height="300px" src="./images/mecies-qr.png" />][website]
-
-<br />
-
 ---
 
 ### Top languages
@@ -45,6 +35,13 @@ Markdown     4 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
+
+### Connect with me:
+
+[<img width="300px" height="300px" src="./images/mecies-qr.png" />][website]
+
+---
+
 ### Socials
 
 
@@ -56,11 +53,11 @@ Markdown     4 mins          ░░░░░░░░░░░░░░░░░
 [<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 ---
 
 ### Parrot squad where you at
 
-<br />
 <div>
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
