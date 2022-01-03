@@ -9,14 +9,15 @@
 
 ---
 
+### All-time coding activity (since tracked)
+[![wakatime](https://wakatime.com/badge/user/54facb64-518c-4f5a-8024-cfe17f7393bd.svg)](https://wakatime.com/@54facb64-518c-4f5a-8024-cfe17f7393bd)
+
+---
+
 ### Top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecies&layout=compact&theme=material-palenight&hide_border=true)
 
----
-
-### All-time coding activity (since tracked)
-[![wakatime](https://wakatime.com/badge/user/54facb64-518c-4f5a-8024-cfe17f7393bd.svg)](https://wakatime.com/@54facb64-518c-4f5a-8024-cfe17f7393bd)
 
 ---
 
