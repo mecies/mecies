@@ -15,6 +15,11 @@
 
 ---
 
+### All-time coding activity (since tracked)
+[![wakatime](https://wakatime.com/badge/user/54facb64-518c-4f5a-8024-cfe17f7393bd.svg)](https://wakatime.com/@54facb64-518c-4f5a-8024-cfe17f7393bd)
+
+---
+
 ### WakaTime weekly stats
 
 <!--START_SECTION:waka-->
