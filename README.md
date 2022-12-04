@@ -3,7 +3,7 @@
 ## I'm a remote React & Vue developer based in Wrocław!
 
 - 🔭 I’m currently working at [@Swapcard-Corporation](https://github.com/Swapcard-Corporation), The Leading All-In-One Virtual & Hybrid Events Platform. 📅
-- 🥅 2022 Goal: Learn basics of DevOps and backend development. ⚙️
+- 🥅 2023 Goal: learn trpc, next-auth and Prisma and deploy a project with it. 🚀
 - ⚡ Fun fact one: I love video games 🎮, board games 🎲, and travelling. 🌇
 - ⚡ Fun fact two: I love sports too, like calisthenics 🧘, powerlifting 🏋️, and climbing. 🧗
 
