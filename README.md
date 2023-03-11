@@ -50,7 +50,7 @@ Git          6 mins          ░░░░░░░░░░░░░░░░░
 ### Socials
 
 
-[website]: https://maciejhnat.netlify.app/
+[website]: https://maciejhnat.dev/
 [instagram]: https://instagram.com/xmasiek
 [linkedin]: https://www.linkedin.com/in/maciej-hnat/
 
